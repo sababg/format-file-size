@@ -1,5 +1,5 @@
 import "./styles.css";
-import { formatFileSize } from "./sizeDisplayUtils.ts";
+import { formatFileSize } from "./sizeDisplayUtils";
 
 export default function App() {
   return (
